@@ -1,0 +1,7 @@
+{
+  "name": "installationManagement",
+  "version": "0.0.1",
+  "dependencies": {
+    "google-auth-library": "^7.0.4"
+  }
+}
