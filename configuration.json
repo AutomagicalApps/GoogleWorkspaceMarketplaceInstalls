@@ -1,0 +1,17 @@
+{
+  "gapi":{
+    "type": "service_account",
+    "project_id": "blog-demo-project-365101",
+    "private_key_id": "3125264e88118ac6d1f805d24b16a57",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAQDNs9/um2MvAq8yZAtUxHK8Nct0ewWKpOKvf\nAqKCiRwubHLarX7OV1rw8Rr4pxAMLfro0XDnznlwNg0DFgtULmlwbekCII2Aa8eC\narr2e+YyObj2iwge8VaWX9icccDoU3fSJWtn8lQw3eodzmZYBMk+nQsImrKi3yFn\nR5zLqdLblU64JwqJi9O5k0DKvyc3qLsiGTVpwG6aMewoD0Jp1pUuCoELUonYV6CS\nvKr5BUWOBw+RS4tITHdYM2QmwKdkpOP/uriq0TyG+pq3VlmXoFk81RjErbprmFFB\njIQmgfpZAgMBAAECggEARp/YSA6e1ZARW8NtlQJFJNslr0KNTfJ74zIB80JFTWne\nlRmA3M8QXa1eiKZNVhhYDdEDFD0nR5xafi3kZ9b1Ywb/BA+POv8JDTJqpTaOru/W\ndrr5/cyJKzqTixy1dQieUOibmIxeqNnYXPGSEXCGn3XsCFHBzwXjSavMriHsLpdk\nB7o+aqrRU8+8+2J/F/Qtq61+UJdEjbqA4uOtHkYT3G32pKFke9GQw1uMbYNIXlId\n07YJnIK/TpzGkjjOe3HqjlB5yeUU3ynwwo5nZXvlLbEWnd4NFipUJk26P2sqYxCT\nEyuFPNZuE1vovtbHLeqoon4jWSeVl+HZILxXv4FuhQKBgQDw7yAFb6eqAeFIKe0f\nabF3UvNA6yhMYA5DVCCQUUAvlz+ZXzJuCbKUGUdGzmmTw5PKhiQ8sAmOf9qt8YrV\nxNT9TlGb4Yh9Ljrnr1b9aelGUSv/WUAgYQs0hMJnxfo9eToqWjyiVAJFb7FbV+Il\nAp/xPTHtgBCsjC+iJouDPvw3twKBgQDakLb8CYC33+cWH+SpfLV8xN1ohRNosh58\n1CxFVLqYzjH4t4jMixDpMaNMrMyPlAvhw4o825GsfdKdtrwel/adOuBoQmNt25Us\nnLsn7EB0Iew0lMjWnAj5XfjwH3+6nbAUVmzSw/FqpBR9bWhrGBHRjiEA4mTu13CX\nUgH3EJS+bwKBgQCNd8r0hjALedket0d9J2FFsBYW6z0ZQ1l8nRwVwS+QAh4c3zHM\nPLN3lDQu1ipV0gOoagVDARZLbrUnZ2lexZlONrtibRXocsmxmlnYqGSJnkXYRD6M\nBI9AwicoKa4ahGDr11o88lj3DnM0MDEgDB9/1a/IRWcE+bdKXZmTcdtElwKBgAWm\nQ/ST0k3ubay2ulRfMtm8xPRUrEHCiOM1IMfR/tjAS65gIBsZZSCB9fSfatIzQ3Nc\neJBGJKfOwMju1kH8L5W01eQcAzHtwRdcHcJUav4VemOJjP9vHRRFB5A9YDHUrZ54\n9WslQXI+N4FeeJp8DsnZ4KSDNZSu4OwoZICcXxvlAoGACYZBv2vp/oBsrTLN0A3U\nujODd0HczuJ3ALnWBrqS/kplDbGQ5av3w8qAAEncaQmTBIYJoECTDCSSbfcDflqq\nj8ymQthN0dgwej9bUqfMAR7ySoFYZOXjOUmmHs7nDt/fzwofirx1WAu9xB7YAUZB\n4IWbPStUfZisSlff7O7yATc=\n-----END PRIVATE KEY-----\n",
+    "client_email": "blog-demo-project-365101@appspot.gserviceaccount.com",
+    "client_id": "112276510378",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/blog-demo-project-365101%40appspot.gserviceaccount.com"
+  },
+  "publishedApp":{
+    "application_id":"yourPublishedAppIdFromMarketplace"
+  }
+}
