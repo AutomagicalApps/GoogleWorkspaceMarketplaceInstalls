@@ -30,6 +30,7 @@ function getMarketplaceInfo(applicationId,timestamp,maxResults) {
     }
     else if(notifications[i].provisions){
       //they re-installed now can do something like send them the Welcome email
+      //sendEmailByMailJet(customerId);
      
     }
     else if(notifications[i].reassignments){
@@ -37,6 +38,7 @@ function getMarketplaceInfo(applicationId,timestamp,maxResults) {
     }
     else{
       // they installed so do something like send Welcome email
+      //sendEmailByMailJet(customerId);
     }
    
   }
