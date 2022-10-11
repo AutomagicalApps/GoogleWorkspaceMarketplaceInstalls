@@ -1,3 +1,3 @@
-# GCP-Marketplace-Install-CloudFunction-Demo
-Here is a Demo GCP Cloud Function that calls the Workspace Marketplace API and parses the installs.
+# Google Workspace Marketplace Install Management
+Here are some demos on how to call the Workspace Marketplace with either Apps Script or a GCP Cloud Function.
 See the accompanying blog post here: https://automagicalapps.com/blog/google-marketplace-install-cloud-function
