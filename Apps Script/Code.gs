@@ -29,11 +29,14 @@ function getMarketplaceInfo(applicationId,timestamp,maxResults) {
       //they uninstalled
     }
     else if(notifications[i].provisions){
-      //they installed now can do something like send them the Welcome email
+      //they re-installed now can do something like send them the Welcome email
      
     }
     else if(notifications[i].reassignments){
           //just the other option, we also get this with deletions so no need to record them
+    }
+    else{
+      // they installed so do something like send Welcome email
     }
    
   }
